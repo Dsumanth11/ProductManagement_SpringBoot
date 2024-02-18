@@ -34,7 +34,6 @@ private ApplicationContext context;
 
 public void someMethod() {
     MyClass myClassBean = context.getBean(MyClass.class);
-    // Use myClassBean
 }
 
 
